@@ -1,0 +1,82 @@
+{
+    "messages": [
+        {
+            "id": 1,
+            "platform": "WhatsApp",
+            "color": "green",
+            "icon": "💬",
+            "gradient": "from-green-400 to-green-600",
+            "customer": "Valentina Silva",
+            "content": "Gracias por la información",
+            "time": "08:04:48",
+            "type": "user",
+            "timestamp": "2026-02-02T08:04:48.590284"
+        },
+        {
+            "id": 2,
+            "platform": "Bot",
+            "color": "green",
+            "icon": "🤖",
+            "gradient": "from-green-400 to-emerald-600",
+            "customer": "AutoBot",
+            "content": "😊 ¡De nada! ¿Hay algo más en lo que pueda ayudarte?",
+            "time": "08:04:48",
+            "type": "bot",
+            "timestamp": "2026-02-02T08:04:48.590296"
+        },
+        {
+            "id": 3,
+            "platform": "Facebook",
+            "color": "blue",
+            "icon": "👍",
+            "gradient": "from-blue-400 to-blue-600",
+            "customer": "Valentina Silva",
+            "content": "Hola, necesito ayuda",
+            "time": "08:04:53",
+            "type": "user",
+            "timestamp": "2026-02-02T08:04:53.589498"
+        },
+        {
+            "id": 4,
+            "platform": "Bot",
+            "color": "green",
+            "icon": "🤖",
+            "gradient": "from-green-400 to-emerald-600",
+            "customer": "AutoBot",
+            "content": "👋 ¡Hola! Bienvenido. ¿En qué puedo ayudarte hoy?",
+            "time": "08:04:53",
+            "type": "bot",
+            "timestamp": "2026-02-02T08:04:53.589507"
+        },
+        {
+            "id": 5,
+            "platform": "WhatsApp",
+            "color": "green",
+            "icon": "💬",
+            "gradient": "from-green-400 to-green-600",
+            "customer": "Ana García",
+            "content": "¿Cuál es el stock?",
+            "time": "08:04:58",
+            "type": "user",
+            "timestamp": "2026-02-02T08:04:58.589946"
+        },
+        {
+            "id": 6,
+            "platform": "Bot",
+            "color": "green",
+            "icon": "🤖",
+            "gradient": "from-green-400 to-emerald-600",
+            "customer": "AutoBot",
+            "content": "✅ Tenemos stock disponible de todos los productos. ¿Cuál te interesa?",
+            "time": "08:04:58",
+            "type": "bot",
+            "timestamp": "2026-02-02T08:04:58.589960"
+        }
+    ],
+    "stats": {
+        "total": 0,
+        "whatsapp": 0,
+        "facebook": 0,
+        "instagram": 0
+    }
+}
